@@ -1,4 +1,4 @@
-Python scripts used for paper Warnatzsch et al. (2019). Climate Change Impact on Aflatoxin Contamination Risk in Malawi’s Maize Crops.
+Python scripts used for paper Warnatzsch et al. (2020). Climate Change Impact on Aflatoxin Contamination Risk in Malawi’s Maize Crops.
 
 These files were created as part of a NERC funded PhD project.
 
